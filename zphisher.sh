@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	Aditya B. Joy
 ##   Version 	: 	2.1
 ##   Github 	: 	https://github.com/htr-tech
 
